@@ -1,3 +1,5 @@
+[Index](../index.md) | [Previous](00-introduction.md) | [Next](02-solution-architecture.md)
+
 # Chapter 1: The Diagnosis — The Context Rot Epidemic
 
 ## 1.1 The "Vibe Coding" Trap
@@ -55,6 +57,8 @@ AI does not create new types of debt; it acts as a Hyper-Inflationary Force on e
 | :---- | :---- | :---- |
 | Logic Debt | Accepting "plausible" logic without auditing edge cases. | Exponential MTTR. Debugging code you didn't write is 2x harder than debugging your own. |
 | Duplication Debt | Copy-Pasting AI output instead of refactoring shared utilities. | Bloated Bundles. Fixing a bug requires finding the 15 slightly different AI-generated versions of the same function. |
-| Security Debt | Blindly accepting generated regex or SQL queries. | Vulnerability Injection. AI often suggests deprecated crypto libraries or vulnerable patterns (e.g., ReDoS). |
+| Security Debt | Blindly accepting generated regex or SQL queries. | Vulnerability Injection. AI often suggests deprecated crypto libraries or vulnerable patterns (e.g., ReDoS). | 
 
 The Verdict: The bottleneck in software engineering has shifted. It is no longer "How fast can I write code?" It is "How fast can I verify that this code doesn't destroy the system?"
+
+[Index](../index.md) | [Previous](00-introduction.md) | [Next](02-solution-architecture.md)

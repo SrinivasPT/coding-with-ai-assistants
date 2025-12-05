@@ -1,12 +1,7 @@
-# Index
+# Coding with AI Assistants
 
-![Cover Image](images/image.png)
-
-## Table of Contents
-
+## Chapters
 - [Instructions](Instructions.md)
-
-### Chapters
 - [00 Introduction](chapters/00-introduction.md)
 - [01 Diagnosis](chapters/01-diagnosis.md)
 - [02 Solution Architecture](chapters/02-solution-architecture.md)
@@ -19,3 +14,6 @@
   - [7.2 The Pragmatic Strategy](chapters/07-coding-practices/7.2-the-pragmatic-strategy.md)
   - [7.3 Tactics Implementation](chapters/07-coding-practices/7.3-tactics-implementation.md)
   - [7.4 Review Next Steps](chapters/07-coding-practices/7.4-review-next-steps.md)
+
+
+![Cover Image](images/image.png)

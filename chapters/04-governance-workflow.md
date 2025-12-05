@@ -1,3 +1,5 @@
+[Index](../index.md) | [Previous](03-human-firmware.md) | [Next](05-measuring-success.md)
+
 # Chapter 4: Governance & Workflow — The Quality Gates
 
 ## 4.1 The Context-First Workflow
@@ -107,3 +109,5 @@ This approach ensures the AI learns from each review, transforming code review i
 - Review focus: Index strategy, data integrity constraints
 
 The governance framework adapts to your team's specific needs while maintaining consistent quality standards across all AI-assisted development.
+
+[Index](../index.md) | [Previous](03-human-firmware.md) | [Next](05-measuring-success.md)

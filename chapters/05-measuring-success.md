@@ -1,3 +1,5 @@
+[Index](../index.md) | [Previous](04-governance-workflow.md) | [Next](06-conclusion.md)
+
 # Chapter 5: Measuring Success — Effective KPIs for AI-Assisted Development
 
 ## 5.1 Moving Beyond Traditional Metrics
@@ -97,3 +99,5 @@ Schedule refactoring sprints, add complexity guidelines to Context Suite, provid
 - Use insights to guide Context Suite updates
 
 By focusing on these quality-oriented KPIs, organizations can channel AI's speed into sustainable velocity, ensuring rapid development translates to stable, maintainable systems.
+
+[Index](../index.md) | [Previous](04-governance-workflow.md) | [Next](06-conclusion.md)

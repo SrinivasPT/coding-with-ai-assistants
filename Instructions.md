@@ -1,3 +1,5 @@
+[Index](index.md) | [Next](chapters/00-introduction.md)
+
 # High-Level Objective
 This document empowers developers to effectively leverage GitHub Copilot for productive, collaborative, and efficient software development. It provides actionable guidance for:
 - Understanding Copilot's capabilities and best practices
@@ -19,3 +21,5 @@ This document empowers developers to effectively leverage GitHub Copilot for pro
   - [7.2 The Pragmatic Strategy](chapters/07-coding-practices/7.2-the-pragmatic-strategy.md)
   - [7.3 Tactics & Implementation](chapters/07-coding-practices/7.3-tactics-implementation.md)
   - [7.4 Review & Next Steps](chapters/07-coding-practices/7.4-review-next-steps.md)
+
+[Index](index.md) | [Next](chapters/00-introduction.md)

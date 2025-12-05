@@ -1,3 +1,5 @@
+[Index](../index.md) | [Previous](05-measuring-success.md) | [Next](07-coding-practices.md)
+
 # Chapter 6: Conclusion & Next Steps
 
 ## 6.1 The Evolving Role of the Engineer
@@ -70,3 +72,5 @@ By investing in Context Architecture and developing effective auditing skills, t
 - Annually: Evaluate overall impact on delivery speed and quality
 
 The future of software development combines human expertise with AI capabilities. By following the principles in this book, you're positioning your team to thrive in this evolving landscape.
+
+[Index](../index.md) | [Previous](05-measuring-success.md) | [Next](07-coding-practices.md)

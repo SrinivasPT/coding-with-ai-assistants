@@ -1,3 +1,5 @@
+[Index](../index.md) | [Previous](02-solution-architecture.md) | [Next](04-governance-workflow.md)
+
 # Chapter 3: The Human Firmware Update — From Writer to Auditor
 
 ## 3.1 The Cognitive Shift: The Auditor's Mindset

@@ -1,4 +1,6 @@
-# **Chapter 7: Coding Practices and Architectural Patterns**
+[Index](../index.md) | [Previous](06-conclusion.md) | [Next](07-coding-practices/7.1-understanding-the-landscape.md)
+
+# Chapter 7: Coding Practices and Architectural Patterns**
 
 This chapter covers coding practices and architectural patterns for effective software development.
 
@@ -8,3 +10,6 @@ This chapter covers coding practices and architectural patterns for effective so
 - [7.2 The Pragmatic Strategy](07-coding-practices/7.2-the-pragmatic-strategy.md)
 - [7.3 Tactics & Implementation](07-coding-practices/7.3-tactics-implementation.md)
 - [7.4 Review & Next Steps](07-coding-practices/7.4-review-next-steps.md)
+- [7.5 IDE Setup & Configuration](07-coding-practices/7.5-ide-setup-and-config.md)
+
+[Index](../index.md) | [Previous](06-conclusion.md) | [Next](07-coding-practices/7.1-understanding-the-landscape.md)

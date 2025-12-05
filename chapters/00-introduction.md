@@ -1,3 +1,5 @@
+[Index](../index.md) | [Previous](../Instructions.md) | [Next](01-diagnosis.md)
+
 # Introduction: The Productivity Paradox
 
 ## 0.1 The Crisis: Speed Kills Stability
@@ -47,3 +49,5 @@ This book provides the governance framework, the technical blueprints, and the c
 - Metrics to measure and improve your team's AI-assisted productivity
 
 In the following chapters, we'll diagnose the root causes of this paradox, then build the practical solutions to overcome it.
+
+[Index](../index.md) | [Previous](../Instructions.md) | [Next](01-diagnosis.md)

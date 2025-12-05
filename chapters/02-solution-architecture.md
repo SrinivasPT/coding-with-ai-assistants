@@ -1,3 +1,5 @@
+[Index](../index.md) | [Previous](01-diagnosis.md) | [Next](03-human-firmware.md)
+
 # Chapter 2: The Solution Architecture — The Context Suite
 
 ## 2.1 Designing the AI's Long-Term Memory
@@ -96,3 +98,7 @@ This diagram explicitly marks forbidden cross-service dependencies. When a devel
 - **Database Work:** Document migration workflows, query optimization guidelines, and data modeling conventions
 
 The Context Suite evolves with your codebase, capturing lessons learned and making them immediately actionable for both humans and AI.d code review to catch violations.
+
+[Index](../index.md) | [Previous](01-diagnosis.md) | [Next](03-human-firmware.md)
+
+[Index](../index.md) | [Previous](01-diagnosis.md) | [Next](03-human-firmware.md)
